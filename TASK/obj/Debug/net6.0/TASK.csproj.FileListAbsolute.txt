@@ -1,0 +1,15 @@
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\bin\Debug\net6.0\TASK.exe
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\bin\Debug\net6.0\TASK.deps.json
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\bin\Debug\net6.0\TASK.runtimeconfig.json
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\bin\Debug\net6.0\TASK.dll
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\bin\Debug\net6.0\TASK.pdb
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.csproj.AssemblyReference.cache
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.AssemblyInfoInputs.cache
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.AssemblyInfo.cs
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.csproj.CoreCompileInputs.cache
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.dll
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\refint\TASK.dll
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.pdb
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\TASK.genruntimeconfig.cache
+C:\Users\bwene\OneDrive\Pulpit\ControlWork\TASK\obj\Debug\net6.0\ref\TASK.dll
